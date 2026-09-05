@@ -4,8 +4,8 @@ Builds a machine learning pipeline to classify music samples into genres (Blues,
 
 ## Contents
 
-- `notebook.ipynb` — data cleaning, feature extraction (via `librosa`), model training and evaluation.
-- `report.pdf` — write-up of the approach and results.
+- `notebook.ipynb`: data cleaning, feature extraction (via `librosa`), model training and evaluation.
+- `report.pdf`: write-up of the approach and results.
 
 ## Running it
 
